@@ -1,0 +1,20 @@
+            PYTHON LOGICAL OPERATORS
+
+Logical operators are the type of operators that are used to combine conditional statements.
+They are used to combine conditional statements.
+They check certain conditions are True and then evaluate to True orFalse.
+
+
+and     Returns True if all conditions are True.
+or      Returns True if either condition is True.
+not     Returns False if result is True.
+
+
+>>> a = 7
+>>> print(a > 6 and a < 9)
+True
+>>> print(a > 6 or a < 5)
+True
+>>> print(not (a > 6 and a < 9))
+False
+

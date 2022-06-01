@@ -1,0 +1,51 @@
+            BINARY NUMBERS
+
+Binary is the language that computers understand.
+
+Binary consists of )'s and 1's.
+
+Binary is a system of counting.
+
+Binary is also known as base 2.
+
+    A QUICK WAY TO CONVERT NUMBERS TO BINARY FORMAT
+What I need to do when you convert the numbers to binary. I have to keep dividing that number in half until I get to one and I egnore the remainder as I go along.
+
+Let's say I want to convert this nymber 13 to a binary format. All I need to do is keed dividing that number in half until it get to one and ignore all h rmainder along the way.
+
+                            13
+                    1    3    6    13
+                    1    1    0    1
+
+
+
+            CONVERTING A BINARY NUMBER INTO A NORMAL NUMBER
+
+                    1        0         0        1         0
+
+                  2(4)      2(3)      2(2)     2(1)      2(0)       # () the power of.
+                    |                            |                  # only the ones count
+                 2x2x2x2                        2X1            =  16+2  =  18
+            #  so the power in the binary conversion of one zero zero one to number is eighteen.
+
+
+
+            CONVERTING BINARY DECIMAL TO NUMBER DECIMAL
+
+            1       1      0      0     .      1      0        1
+          2(3)     2(2)                       2(-1)          2(-3)
+            8       4                          1/2           1/8
+                12    +  0.5        +       0.125   =  12.625  
+        
+
+            USEFUL TO REMEMBER
+
+    2(0) = 1        2(5) = 32
+    2(1) = 2        2(6) = 64
+    2(2) = 4        2(7) = 128
+    2(3) = 8        2(8) = 256
+    2(4) = 16       2(-4) = 1/16
+    2(5) = 32       2(-5) = 1/32
+    2(6) = 64       2(-6) = 1/64
+
+

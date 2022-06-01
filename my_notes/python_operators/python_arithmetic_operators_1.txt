@@ -1,0 +1,30 @@
+Some common Python operators
+
++   addition operator       a + b
+-   subtraction operator    a - b
+*   multiplication operator a * b
+/   division operator       a / b
+%   modulus                 a % b   basically divides two numbers, but only returns the remainder after the division.
+**  power (pow)             a ** b 
+// floor division           a // b  floor division basically performs a division on some values, but only returns the remainder(wloe number) after the floor division
+
+
+>>> 3 + 4
+7
+>>> 47 - 14
+33
+>>> 3 - 5
+-2
+>>> 3 * 3
+9
+>>> 'la' * 3
+'lalala'
+>>> 12 / 4
+3.0
+>>> 3 ** 4
+81
+>>> 13 // 3
+4
+>>> 13 % 3
+1
+>>> 

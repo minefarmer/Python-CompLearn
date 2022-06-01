@@ -1,0 +1,21 @@
+        PYTHON OPERATORS
+
+Operators are used to provide functionality that does something with some values.
+They can be represented by special symbols such as +.
+They usually require data to operate on or work with.
+The data used by the operators are called operands. Example 3 + 4 (3 and 4 are operands and + is an operator).
+
+
+ Arithmetic Operators.
+
+ Assignment Operators.
+
+ Comparision Operators.
+
+ Logical Operators.  These are basically used to combine conditional statements.
+
+ Identity Operators.  The identy operators are basically used to check that if certain values are the same, so they will compare the values of certain objects and check if they are the same or not.
+
+Membership Operators.  They are basically used to check or test if a certain value exists in a sequence of values.
+
+Bitwise Operators.  Are used to compare binary numbers, binary numbers are represented in zeros and ones.
