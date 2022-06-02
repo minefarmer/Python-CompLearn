@@ -1,0 +1,10 @@
+                DATA STRUCTURES
+
+They are structures which can hold some data together.
+They are basically used to store related data.
+Python has four types of built-in data structures.
+    List of built-in data structures
+List
+Tuple
+Set
+Dictionaries

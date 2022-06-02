@@ -1,0 +1,9 @@
+            PYTHON NUMBER DATA TYPES
+Integers(int)
+Floating Point(float)
+
+>>> print(type(10))
+<class 'int'>
+>>> print(type(20.0))
+<class 'float'>
+>>> 

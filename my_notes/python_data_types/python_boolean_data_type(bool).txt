@@ -1,0 +1,7 @@
+            PYTHON BOOLEAN DATA TYPE(bool)
+
+>>> type(True)
+<class 'bool'>
+>>> type(False)
+<class 'bool'>
+>>> 

@@ -1,0 +1,11 @@
+                WHAT IS A LIST
+
+It is a collection of data which can be of mixed type.
+Items in a list are ordered by thier index and changeable.
+The index refers to the position of the elements in the list and also the elements can be changed.
+I can have items in a list that you can later change.
+Lists are created by using square brackets.[]
+Items on a list are ordered by thier index and are changeable.
+Items in a list can be assessed by thier index.
+Each item in a list is seperated by commas.
+
