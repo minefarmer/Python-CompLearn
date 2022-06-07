@@ -1,0 +1,6 @@
+'''             ABSTRACTION   Part 1 
+
+
+
+
+'''

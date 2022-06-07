@@ -1,0 +1,17 @@
+                 CLASS VS INSTANCE (OBJECT) VARIABLES
+
+Class Variables                             Instance (object) Variables
+
+Defined outside any method                  Defined inside class methods  
+
+Accessed outside class with className       Accessed outside class with objectName
+
+Not prefixed                                Prefixed with self keyword
+
+Modifications affects all class instances   Modifications to object is local
+
+Classes are indented                        Instances are not indented
+
+
+
+Instance variables are also known as object variables.

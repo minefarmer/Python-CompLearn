@@ -1,0 +1,53 @@
+                OBJECT ORIENTATED PROGRAMMING(OOP)
+
+Type of programming that breaks things into objects that interacts with each other.
+Objects are created from classes.
+
+Objects are created from classes.
+
+Object Oriented Programming rncourages code reuse through D.R.Y concept (Don't repeat yourself)
+
+
+
+            WHAT IS AN OBJECT?
+
+An object can be an entity or anything in your programm like a noun.
+
+Examples of real world objects includes things around us, like houses, cars, bank accounts, pets, etc.
+
+
+
+            WHAT IS A CLASS?
+
+A class is a blueprint(template) for creating objects.
+
+Classes can have properties(attributes) which are like variables that store data.
+
+Classes can also have behaviors(methods). These are like functions.
+
+I can create many unique objects from a single class.
+
+
+
+            CLASS CAR   
+
+    Attributes            Methods
+Color                   Start()
+Engine                  Stop()
+Door                    Reverse()
+Brand                   Accelerate()
+
+
+            CREATING AN OBJECT (Instatiating)
+
+**********  INSTANTIATING A CLASS MEANS CREATING A NEW OBJECT FROM A CLASS   ************
+
+When I'm creating objects from a class, it is called instantiating an object.
+
+(red car)
+Attributes                                              Methods
+    Red    values for the attributes in the class.      Start()
+    Petrol          "   "                               Stop()
+    2 doors         "   "                               Reverse()
+    Porsche         "   "                               Accelerate()
+

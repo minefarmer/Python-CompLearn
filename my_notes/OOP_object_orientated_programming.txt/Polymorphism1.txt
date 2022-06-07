@@ -1,0 +1,16 @@
+                What is Polymorphism? = Part 1
+
+Polymorphism means the ability to take or have various forms.  i.e.  smartphone
+In Python, polymorphism allows you to define methods that are present in the parent class, it allows me to define the same method with the same name in the child class.
+Polymorphism allows us to define methods in child class with the same name as methods in parent class, but doing differient things.
+
+
+>>> print(len("Hello"))
+5
+>>> print(len([20,40,80])
+... )
+3
+
+
+
+
