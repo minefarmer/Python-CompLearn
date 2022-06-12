@@ -1,0 +1,9 @@
+                    FILE ACCESS MODES
+ Mode   Description
+ "r"    Default mode. Used for reading.
+ "r+"   Opens for reading and writing to a file.
+ "w"    Opens a file for writing, creates the file if not present.
+ "rb"   For reading a binary file e.g. images and video file(non-text)
+ "a"    Opens file to append. Creates a new file if not present.
+ "t"    Text - Defauld mode
+ "x"    Create the specified file, returns error if the file exists.py.
