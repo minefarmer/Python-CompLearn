@@ -15,9 +15,9 @@ from PIL import Image
 img = Image.open('pup_images/tan.jpeg')
 
 # Get basic details about the image
-print(img.format)
-print(img.mode)
-print(img.size)
+print(img.format)  # JPEG
+print(img.mode)  # RGB
+print(img.size)  # (290, 193)
 
 # Show image
 
