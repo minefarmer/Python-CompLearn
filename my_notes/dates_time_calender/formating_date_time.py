@@ -51,7 +51,13 @@ print(today.strftime("the current year is: %Y"))  # the current year is: 2022
 print(today.strftime("%a, %d, %B, %y"))  # Sun, 12, June, 22
 
 
-                    #   FORMATTING DATE AND TIME  part 3  **********************************************
+
+
+
+
+
+
+'''             FORMATTING DATE AND TIME  part 3  **********************************************'''
 today = datetime.now()
 
 print(today.strftime("%c"))  # Sun Jun 12 18:04:45 2022
