@@ -20,5 +20,17 @@ print(img.mode)  # RGB
 print(img.size)  # (290, 193)
 
 # Show image
-
 img.show()
+
+#  save image
+img.save('pup_images/puppy1_gs.jpeg')
+
+# image resize
+img = Image.open('pup_images/puppy1_gs.jpeg')
+
+newImage = img.resize((450,500))
+
+newImage.save('pup_images/puppy1resized.jpeg')
+
+img.rotate(45).show()
+
