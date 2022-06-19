@@ -16,12 +16,13 @@ import pillow
 img = Image.open('pup_images/tan.jpeg') .convert('L')
 
 # Get basic details about the image
-print(img.format)  # JPEG
-print(img.mode)  # RGB
-print(img.size)  # (290, 193)
+# print(img.format)  # JPEG
+# print(img.mode)  # RGB
+# print(img.size)  # (290, 193)
 
 # Show image
 img.show()
 
-#  show image
-img.save("puppies/tan.jpeg")
+#  save image
+img.save("puppies/tan1_gs.jpeg")
+
