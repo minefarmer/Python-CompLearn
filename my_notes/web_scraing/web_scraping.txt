@@ -1,0 +1,18 @@
+                WHAT IS WEB SCRAPING.
+This is also referred to as web harvesting and web data extraction.
+This is the process of automatically downloading a web page's data and extracting information from it.
+The extracted information can be saved to a file or database.
+Component of applications used for web indexing e.g. google.com
+Web and data mining.
+Online price monitoring.
+Online price comparison.
+Product review to watch competition.
+Gather real estate listings.
+Weather moniteoring.
+Website change detection.
+Research.
+
+!!! web scraping is a very gary area, so I have to be carefull about doing it, always check a websites, terms and conditions to make sure I don't do something illegal.
+
+!!! do not request data from a website to aggressively(spamming), as I can overload and bre4ak a website.
+

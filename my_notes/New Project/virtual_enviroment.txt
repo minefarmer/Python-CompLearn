@@ -1,0 +1,7 @@
+                    WHAT IS A VIRTUAL ENVIROMENT
+Isolated python enviroment.
+It allows me to use differient packages and versions for various projects.
+
+Virtualenv is the tool used to create isolated python environments.
+
+
