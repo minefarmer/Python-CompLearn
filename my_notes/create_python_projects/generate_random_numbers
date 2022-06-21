@@ -1,0 +1,42 @@
+'''             GENERATE RANDOM NUMBERS
+
+
+
+
+
+
+
+
+'''
+import random
+from turtle import clear
+
+for i in range(1,27):
+    print(random.randint(1,27))  # 1
+                                # 23
+                                # 21
+                                # 27
+                                # 26
+                                # 21
+                                # 14
+                                # 4
+                                # 11
+                                # 1
+                                # 18
+                                # 18
+                                # 14
+                                # 10
+                                # 2
+                                # 25
+                                # 26
+                                # 8
+                                # 22
+                                # 12
+                                # 21
+                                # 9
+                                # 2
+                                # 10
+                                # 15
+                                # 23
+
+
